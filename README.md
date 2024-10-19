@@ -2,8 +2,8 @@
 
 Finally all in one place; no more feeling out of the loop when someone refers to their favorite arcade with a 3-letter code.
 
-| |Location|City|State|
-|:---:|--------|----|-----|
+| |Location|City|State|Notes|
+|:---:|--------|----|-----|-----|
 |**APM**|Arlington Parks|Arlington|TX|
 |**ATC**|Arrowhead Towne Center|Glendale|AZ|
 |**BTC**|Burbank Town Center|Burbank|CA|
@@ -13,6 +13,7 @@ Finally all in one place; no more feeling out of the loop when someone refers to
 |**CRG**|Galleria at Crystal Run|Middletown|NY|
 |**DBF**|Danbury Fair|Danbury|CT|
 |**DFM**|Deptford Mall|Deptford|NJ|
+|**ERM**|Eastridge Mall|San Jose|CA|Old acronym for ESC, no longer in use internally at Round1. Still in use by local DDR and IIDX players in the area.|
 |**ESC**|Eastridge Shopping Center|San Jose|CA|
 |**EXM**|Exton Square Mall|Exton|PA|
 |**FDP**|Fashion District Philadelphia|Philadelphia|PA|
@@ -66,8 +67,8 @@ Finally all in one place; no more feeling out of the loop when someone refers to
 
 <details><summary><b>Sorted by State/City (A-Z)</b></summary>
 
-| |Location|City|State|
-|:---:|--------|----|-----|
+| |Location|City|State|Notes|
+|:---:|--------|----|-----|-----|
 |**ATC**|Arrowhead Towne Center|Glendale|AZ|
 |**PPM**|Park Place Mall|Tuscon|AZ|
 |**BTC**|Burbank Town Center|Burbank|CA|
@@ -81,6 +82,7 @@ Finally all in one place; no more feeling out of the loop when someone refers to
 |**RVM**|Westfield Galleria at Roseville|Roseville|CA|
 |**NRM**|Northridge Mall|Salinas|CA|
 |**STG**|Stonestown Galleria|San Francisco|CA|
+|**ERM**|Eastridge Mall|San Jose|CA|Old acronym of ESC. Still in use by local DDR and IIDX players in the area.|
 |**ESC**|Eastridge Shopping Center|San Jose|CA|
 |**MPM**|Main Place Mall|Santa Ana|CA|
 |**TMP**|Promenade Temecula|Temecula|CA|
