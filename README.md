@@ -13,7 +13,7 @@ Finally all in one place; no more feeling out of the loop when someone refers to
 |**CRG**|Galleria at Crystal Run|Middletown|NY|
 |**DBF**|Danbury Fair|Danbury|CT|
 |**DFM**|Deptford Mall|Deptford|NJ|
-|**ERM**|Eastridge Mall|San Jose|CA|Old acronym for ESC, no longer in use internally at Round1. Still in use by local DDR and IIDX players in the area.|
+|**ERM**|Eastridge Mall|San Jose|CA|Old acronym of ESC. Still in use by local DDR and IIDX players in the area.|
 |**ESC**|Eastridge Shopping Center|San Jose|CA|
 |**EXM**|Exton Square Mall|Exton|PA|
 |**FDP**|Fashion District Philadelphia|Philadelphia|PA|
@@ -26,7 +26,7 @@ Finally all in one place; no more feeling out of the loop when someone refers to
 |**GVM**|Grapevine Mills|Grapevine|TX|
 |**GWM**|Gateway Mall|Lincoln|NE|
 |**HYM**|Holyoke Mall at Ingleside|Holyoke|MA|
-|**JFM**|Jefferson Mall|Louisville|KY|
+|**JFM**|Jefferson Mall|Louisville|KY|Closed 2024-04-07.|
 |**LAS**|Meadows Mall|Las Vegas|NV|
 |**LVO**|Las Vegas South Premium Outlets|Las Vegas|NV|
 |**LWM**|Lakewood Center Mall|Lakewood|CA|
@@ -38,7 +38,7 @@ Finally all in one place; no more feeling out of the loop when someone refers to
 |**NRM**|Northridge Mall|Salinas|CA|
 |**NRS**|North Riverside Park Mall|North Riverside|IL|
 |**NSM**|North Star Mall|San Antonio|TX|
-|**NWD**|Northwoods Mall|Peoria|IL|
+|**NWD**|Northwoods Mall|Peoria|IL|Closed 2023-05-21.|
 |**PBO**|Westfield Plaza Bonita|National City|CA|
 |**PCC**|Park City Center|Lancaster|PA|
 |**PHM**|Puente Hills Mall|City of Industry|CA|
@@ -56,7 +56,7 @@ Finally all in one place; no more feeling out of the loop when someone refers to
 |**SSM**|Stratford Square Mall|Bloomingdale|IL|
 |**STC**|Shops at South Town|Sandy|UT|
 |**STG**|Stonestown Galleria|San Francisco|CA|
-|**STM**|The Mall at Stonecrest|Stonecrest|GA|
+|**STM**|The Mall at Stonecrest|Stonecrest|GA|Closed 2022-12-04.|
 |**SVM**|Sunvalley Mall|Concord|CA|
 |**SWP**|Southwest Plaza|Littleton|CO|
 |**TES**|Town East Square|Wichita|KS|
@@ -90,14 +90,14 @@ Finally all in one place; no more feeling out of the loop when someone refers to
 |**DBF**|Danbury Fair|Danbury|CT|
 |**PLM**|Pembroke Lakes Mall|Pembroke Pines|FL|
 |**CLM**|Cumberland Mall|Atlanta|GA|
-|**STM**|The Mall at Stonecrest|Stonecrest|GA|
+|**STM**|The Mall at Stonecrest|Stonecrest|GA|Closed 2022-12-04.|
 |**FVM**|Fox Valley Mall|Aurora|IL|
 |**SSM**|Stratford Square Mall|Bloomingdale|IL|
 |**GUR**|Gurnee Mills|Gurnee|IL|
 |**NRS**|North Riverside Park Mall|North Riverside|IL|
-|**NWD**|Northwoods Mall|Peoria|IL|
+|**NWD**|Northwoods Mall|Peoria|IL|Closed 2023-05-21.|
 |**TES**|Town East Square|Wichita|KS|
-|**JFM**|Jefferson Mall|Louisville|KY|
+|**JFM**|Jefferson Mall|Louisville|KY|Closed 2024-04-07.|
 |**HYM**|Holyoke Mall at Ingleside|Holyoke|MA|
 |**SCG**|Silver City Galleria|Taunton|MA|
 |**TTC**|Towson Town Center|Towson|MD|
