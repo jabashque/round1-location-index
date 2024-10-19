@@ -11,7 +11,7 @@ class column(IntEnum):
     city = 2
     state= 3
 
-tablehead="|:---:|--------|----|-----|"
+tablehead="|:---:|--------|----|-----|-----|"
 
 # slim down the existing file, deleting the existing tables
 readme = []
